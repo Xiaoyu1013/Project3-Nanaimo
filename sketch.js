@@ -9,9 +9,9 @@ let clickCount = 0
 function preload() {
 
   cityPictures = [
-    loadImage('assets/bg1.jpg'),
-    loadImage('assets/bg2.jpeg'),
-    loadImage('assets/bg3.jpeg')
+    loadImage('https://xiaoyu1013.github.io/Project3-Nanaimo/assets/bg1.jpg'),
+    loadImage('https://xiaoyu1013.github.io/Project3-Nanaimo/assets/bg2.jpeg'),
+    loadImage('https://xiaoyu1013.github.io/Project3-Nanaimo/assets/bg3.jpeg')
   ]
   simplePictures = [
   ]
